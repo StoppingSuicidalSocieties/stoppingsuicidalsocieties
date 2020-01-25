@@ -1,10 +1,18 @@
-<<!DOCTYPE html>
+<?php
+ require "header.php";
+ ?>
+
+<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>S-S-S</title>
+
   </head>
   <body>
     <p>Test Test Test</p>
   </body>
 </html>
+
+<?php
+ require "footer.php";
+ ?>
