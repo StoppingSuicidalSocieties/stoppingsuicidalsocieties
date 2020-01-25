@@ -6,11 +6,10 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-
   </head>
-  <body>
+  <header>
     <p>Test Test Test</p>
-  </body>
+  </header>
 </html>
 
 <?php
